@@ -56,4 +56,5 @@ print(pos)
 #caounrt function
 c=n2.count(93)
 print(c)
+print(n)
 
